@@ -1,3 +1,5 @@
+# KEY: Add comments!
+
 def main():
     problem1()
     # problem2()
@@ -13,6 +15,7 @@ def problem1():
 
 
 
+# KEY: See README for expected results. This should return a dictionary
 def problem2():
     use1 = number1()
     use2 = number2()
